@@ -1,0 +1,1 @@
+25-10-21.21:42:30.250 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[org.example]' package. Please check your configuration.

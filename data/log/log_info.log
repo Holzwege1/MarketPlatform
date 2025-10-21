@@ -1,0 +1,12 @@
+25-10-21.21:42:30.008 [main            ] INFO  Application            - Starting Application using Java 1.8.0_462 on linzhongludeMacBook-Air.local with PID 18553 (/Users/liuboyan/Desktop/Java_project/MarketPlatform/MarketPlatform-app/target/classes started by liuboyan in /Users/liuboyan/Desktop/Java_project/MarketPlatform)
+25-10-21.21:42:30.009 [main            ] INFO  Application            - The following 1 profile is active: "dev"
+25-10-21.21:42:30.250 [main            ] WARN  ClassPathMapperScanner - No MyBatis mapper was found in '[org.example]' package. Please check your configuration.
+25-10-21.21:42:30.420 [main            ] INFO  TomcatWebServer        - Tomcat initialized with port(s): 8091 (http)
+25-10-21.21:42:30.424 [main            ] INFO  Http11NioProtocol      - Initializing ProtocolHandler ["http-nio-8091"]
+25-10-21.21:42:30.424 [main            ] INFO  StandardService        - Starting service [Tomcat]
+25-10-21.21:42:30.424 [main            ] INFO  StandardEngine         - Starting Servlet engine: [Apache Tomcat/9.0.75]
+25-10-21.21:42:30.465 [main            ] INFO  [/]                    - Initializing Spring embedded WebApplicationContext
+25-10-21.21:42:30.466 [main            ] INFO  ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 433 ms
+25-10-21.21:42:30.715 [main            ] INFO  Http11NioProtocol      - Starting ProtocolHandler ["http-nio-8091"]
+25-10-21.21:42:30.727 [main            ] INFO  TomcatWebServer        - Tomcat started on port(s): 8091 (http) with context path ''
+25-10-21.21:42:30.734 [main            ] INFO  Application            - Started Application in 0.952 seconds (JVM running for 1.141)
