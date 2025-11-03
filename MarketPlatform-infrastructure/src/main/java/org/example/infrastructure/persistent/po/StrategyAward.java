@@ -1,8 +1,11 @@
 package org.example.infrastructure.persistent.po;
 
+import lombok.Data;
+
 import java.math.BigDecimal;
 import java.util.Date;
-
+/*策略明细，配置规则*/
+@Data
 public class StrategyAward {
 
     /*自增ID*/

@@ -1,7 +1,8 @@
 package org.example.infrastructure.persistent.po;
 
 import javax.xml.crypto.Data;
-
+/*策略规则*/
+@lombok.Data
 public class StrategyRule {
 
     /*自增ID*/
